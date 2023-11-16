@@ -1,1 +1,4 @@
-Hi, I am Shreya Dama who is fervent towards robots and autonomous systems.
+I am an experienced Machine Learning Engineer driven by a passion for applying state-of-the-art technologies to address intricate challenges. Possessing a solid foundation in machine learning algorithms, data analysis, and model development, I am motivated to continually push the boundaries of innovation. My professional journey includes engagement in diverse projects, where I've successfully implemented and optimized machine learning models, actively contributing to the progression of artificial intelligence. Committed to staying abreast of the latest industry trends, I am dedicated to continuous skill refinement to deliver impactful solutions. As a devoted professional in the field, I am eager to utilize my expertise in driving positive outcomes and contributing to the dynamic and ever-evolving landscape of machine learning.
+
+
+https://medium.com/@shreya_dama/all-you-need-to-know-about-llms-5e585befd29b
